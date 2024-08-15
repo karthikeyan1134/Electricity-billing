@@ -1,0 +1,11 @@
+id,user_id,customer_name,address,meter_number,billing_period,billing_date,previous_reading,current_reading,units_consumed,rate_per_unit,bill_amount
+1,1,John Doe,1234 Elm Street,Springfield,IL 62701,567890,June 2024,2024-07-01,12345,12567,222,0.12,26.64
+2,2,Jane Smith,5678 Oak Street,Springfield,IL 62701,678901,June 2024,2024-07-01,23456,23789,333,0.12,39.96
+3,3,Michael Johnson,9101 Pine Street,Springfield,IL 62701,789012,June 2024,2024-07-01,34567,34900,333,0.12,39.96
+4,4,Emily Davis,2345 Maple Street,Springfield,IL 62701,890123,June 2024,2024-07-01,45678,46000,322,0.12,38.64
+5,5,David Wilson,6789 Birch Street,Springfield,IL 62701,901234,June 2024,2024-07-01,56789,57200,411,0.12,49.32
+6,1,John Doe,1234 Elm Street,Springfield,IL 62701,567890,July 2024,2024-08-01,12567,12789,222,0.12,26.64
+7,2,Jane Smith,5678 Oak Street,Springfield,IL 62701,678901,July 2024,2024-08-01,23789,24122,333,0.12,39.96
+8,3,Michael Johnson,9101 Pine Street,Springfield,IL 62701,789012,July 2024,2024-08-01,34900,35233,333,0.12,39.96
+9,4,Emily Davis,2345 Maple Street,Springfield,IL 62701,890123,July 2024,2024-08-01,46000,46322,322,0.12,38.64
+10,5,David Wilson,6789 Birch Street,Springfield,IL 62701,901234,July 2024,2024-08-01,57200,57611,411,0.12,49.32

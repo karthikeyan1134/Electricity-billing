@@ -1,0 +1,11 @@
+id,user_id,customer_name,address,meter_number,billing_period,billing_date,previous_reading,current_reading,units_consumed,rate_per_unit,bill_amount
+1,11,Mark Yellow,1358 Pine Street,Springfield,IL 62701,667788,June 2024,2024-07-01,12344,12566,222,0.20,44.40
+2,12,Betty Purple,2469 Oak Street,Springfield,IL 62701,778899,June 2024,2024-07-01,23455,23788,333,0.20,66.60
+3,13,Chris Orange,3580 Maple Street,Springfield,IL 62701,889900,June 2024,2024-07-01,34566,34899,333,0.20,66.60
+4,14,Anna Pink,4681 Elm Street,Springfield,IL 62701,990011,June 2024,2024-07-01,45677,45999,322,0.20,64.40
+5,15,Paul Gray,5792 Birch Street,Springfield,IL 62701,001122,June 2024,2024-07-01,56788,57200,411,0.20,82.20
+6,11,Mark Yellow,1358 Pine Street,Springfield,IL 62701,667788,July 2024,2024-08-01,12566,12788,222,0.20,44.40
+7,12,Betty Purple,2469 Oak Street,Springfield,IL 62701,778899,July 2024,2024-08-01,23788,24121,333,0.20,66.60
+8,13,Chris Orange,3580 Maple Street,Springfield,IL 62701,889900,July 2024,2024-08-01,34899,35232,333,0.20,66.60
+9,14,Anna Pink,4681 Elm Street,Springfield,IL 62701,990011,July 2024,2024-08-01,45999,46321,322,0.20,64.40
+10,15,Paul Gray,5792 Birch Street,Springfield,IL 62701,001122,July 2024,2024-08-01,57200,57611,411,0.20,82.20
