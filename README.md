@@ -10,3 +10,6 @@ Modify the config.php file With your RDS Details
 upload_S3.sh which is used to send the [Billing Details.csv] file into the S3 bucket
 Modify the below line in the upload_S3.sh with your bucket name
 getbucketname="s3://electricity-billing-system"
+
+
+# The 'View Bills' navigation item will not be displayed until there is a database connection.
